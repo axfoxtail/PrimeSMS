@@ -1,0 +1,10 @@
+<script src="{{asset('assets/admin/js/popper.min.js')}}"></script>
+<script src="{{asset('assets/admin/js/bootstrap.min.js')}}"></script>
+<script src="{{asset('assets/admin/js/main.js')}}"></script>
+<script src="{{asset('assets/admin/js/chart.js')}}"></script>
+<script src="{{asset('assets/admin/js/nicEdit.js')}}"></script>
+<script src="{{asset('assets/admin/js/bootstrap-notify.min.js')}}"></script>
+<script src="{{asset('assets/admin/js/bootstrap-toggle.min.js')}}"></script>
+<script src="{{asset('assets/admin/js/bootstrap-datepicker.min.js')}}"></script>
+<script src="{{asset('assets/admin/js/morris.min.js')}}"></script>
+<script src="{{asset('assets/admin/js/raphael-min.js')}}"></script>
